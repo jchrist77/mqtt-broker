@@ -1,0 +1,25 @@
+{
+  "name": "mqtt-broker",
+  "version": "1.0.0",
+  "description": "MQTT Broker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "jchristov",
+  "license": "MIT",
+  "engines": {
+    "node": "9.x"
+  },
+  "dependencies": {
+    "mosca": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchrist77/mqtt-broker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jchrist77/mqtt-broker/issues"
+  },
+  "homepage": "https://github.com/jchrist77/mqtt-broker#readme"
+}
